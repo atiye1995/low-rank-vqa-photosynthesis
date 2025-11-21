@@ -1,0 +1,10 @@
+qutip==4.7.3
+qiskit>=1.0.0 # Updated for Python 3.12 compatibility
+qiskit-aer # Let pip find a compatible version for Qiskit >= 1.0.0
+numpy>=1.26.0 # Updated to a version compatible with Python 3.12
+scipy==1.11.2
+matplotlib==3.7.2
+seaborn==0.12.2
+pandas==2.0.3
+openpyxl==3.1.2
+tqdm==4.66.1
